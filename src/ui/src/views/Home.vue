@@ -28,7 +28,7 @@ main {
   width: 100pc;
   height: 100pc;
   position: fixed;
-  top:0px;
+  top: 0px;
   left: 0px;
   overflow-x: hidden;
   overflow-y: scroll;
@@ -47,5 +47,6 @@ main {
 }
 .card--info {
   min-height: 20pc;
+  margin: 10px;
 }
 </style>
