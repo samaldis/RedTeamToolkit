@@ -1,0 +1,12 @@
+{
+  "name": "redteam-toolkit",
+  "scripts": {
+    "upload": "git add . && git commit -m 'Upload from npm script'"
+  },
+  "version": "1.0.0",
+  "description": "RedTeam Toolkit MonoRepo",
+  "main": "index.js",
+  "repository": ".",
+  "author": "Samuel Aldis",
+  "license": "MIT"
+}
