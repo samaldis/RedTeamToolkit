@@ -7251,10 +7251,10 @@ vuetify-scss@^1.4.0:
   resolved "https://registry.yarnpkg.com/vuetify-scss/-/vuetify-scss-1.4.0.tgz#4b5cace35403a002c3cdd1b002ad97643e63d7f4"
   integrity sha512-4GFB+/oJzgD6bDI5TX3g5u6HKfcO604CSXs+RlAb+6huo3uoWMIGR725v0xoO8kahDMzdenHuAPIQGM16LkoUA==
 
-vuetify@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.1.2.tgz#187e12758a97679c9ee49a3fe1875f72357903b3"
-  integrity sha512-cRCemRFQUWS14I3wONDp08zHeMDSNAa0bjqG9X9+SHAOoCinMxENnOKuct74YKvFyaLPyp8nyH5ELmx5FlPJDw==
+vuetify@^2.6.10:
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.10.tgz#b86cd7a97bf8cd3828a72c349795b5b3c539ebc2"
+  integrity sha512-fgUeRDDCwYkwu6WGEEKGe7IdfzOsXJCZGrqkn1pcS2ycuoDL8mR2/dejH5iFNnBY6MnsT365PAGn0J+9otjfQg==
 
 vuex@^3.0.1:
   version "3.1.1"
